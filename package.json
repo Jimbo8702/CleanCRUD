@@ -30,9 +30,11 @@
     "typescript": "^5.0.2"
   },
   "dependencies": {
+    "celebrate": "^15.0.1",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
+    "express-jwt": "^8.4.1",
     "mongoose": "^7.0.3",
     "reflect-metadata": "^0.1.13",
     "typedi": "^0.10.0",
