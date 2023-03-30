@@ -1,4 +1,4 @@
-import { Router, Request, Response, NextFunction } from 'express';
+import { Router } from 'express';
 import { auth } from '../controllers/auth';
 import { celebrate, Joi } from 'celebrate';
 import middlewares from '../middlewares';
